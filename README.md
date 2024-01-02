@@ -1,4 +1,4 @@
-## Piano simulator
+## Piano Simulator
 Bem-vindo! Este repositório contém um simulador de piano, desenvolvido como parte de um projeto de curso oferecido pela Digital Innovation One. O objetivo foi aprimorar e consolidar habilidades em JavaScript.
 
 ##  Créditos
